@@ -1,2 +1,0 @@
-# slide
-GitPitch用のリポジトリです。
